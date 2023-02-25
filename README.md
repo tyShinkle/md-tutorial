@@ -78,6 +78,18 @@ Here is a reference for marking up text...
 - item one
 - item two 
 - item three
+
+### Ordered Lists
+####Markdowm: :arrow_right:
+```
+1. item one
+2. item two
+3. item three
+```
+#### Output :arrow_right:
+1. item one
+2. item two
+3. item three
 ***
 ## Tables in Markdown
 ***
