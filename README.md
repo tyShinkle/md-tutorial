@@ -51,7 +51,7 @@ Here is a reference for marking up text...
    &nbsp;&#10060;<code>text # header text</code>
    <br>
    <br>
-   This is because headers are known as <a href ="https://www.w3schools.com/html/html_blocks.asp"> block elements </a> in HTML. Learn more about this in the section about <a href = "#display values">Display Values</a>.
+   This is because headers are known as <a href ="https://www.w3schools.com/html/html_blocks.asp"> block elements </a> in HTML. Learn more about this in the section about <a href = "#display-values">display values</a>.
    <br>
    <br>
   </td>
