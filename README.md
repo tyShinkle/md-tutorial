@@ -24,8 +24,10 @@
 Markup languages use symbols and specific syntax rules to format content. You can think of it as adding marks or 'marking up' 
 text to modify how it is displayed after conversion.
  
-:exclamation:<table>
+
+<table>
  <tr>
+  <td>&#10071;</td>
   <td>test</td>
  </tr>
 </table>
