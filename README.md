@@ -66,5 +66,7 @@ Here is a reference for marking up text...
 ***
 ## Images in Markdown
 ***
+## Math and Science in Markdown
+***
 ## Display Values
 ***
