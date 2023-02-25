@@ -2,7 +2,7 @@
 :wave: Hello, this is a quick tutorial / reference for Markdown, specifially [GitHub Flavored Markdown](https://github.github.com/gfm/).
 
 ### Index
-- [Introduction](#large-blue-diamond-introduction-to-markdown)
+- [Introduction](#large_blue_diamond-introduction-to-markdown)
 - [Text Basics](#zap-text-basics-with-markdown)
 - [Lists](#zap-lists-in-markdown)
 - [Tables](#zap-tables-in-markdown)
