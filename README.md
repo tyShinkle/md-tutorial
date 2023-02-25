@@ -51,7 +51,7 @@ Here is a reference for marking up text...
    &nbsp;&#10060;<code>text # header text</code>
    <br>
    <br>
-   This is because headers known as block elements in HTML.
+   This is because headers are known as block elements in HTML.
    <br>
    <br>
   </td>
