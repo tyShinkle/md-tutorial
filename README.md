@@ -15,7 +15,7 @@
 - To create a markdown file use the extension .md.
 - HTML can be embedded within Markdown.
 
-## Text Basics with Markdown
+## :triangular_flag_on_post: Text Basics with Markdown
 
 Markup languages use symbols and specific syntax rules to format content. You can think of it as adding marks or 'marking up' 
 text to modify how it is displayed after conversion.
