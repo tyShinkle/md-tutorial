@@ -94,14 +94,14 @@ Here is a reference for marking up text...
 ### Task List
 #### Markdown :arrow_right:
 ```
--[x] item one
--[ ] item two
--[ ] item three
+- [x] item one
+- [ ] item two
+- [ ] item three
 ```
 #### Output :arrow_right:
--[x] item one
--[ ] item two 
--[ ] item three 
+- [x] item one
+- [ ] item two 
+- [ ] item three 
 
 ***
 ## Tables in Markdown
