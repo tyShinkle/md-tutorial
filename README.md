@@ -7,7 +7,7 @@
 
 ###### :calendar:Created February 2023
 
-## :triangular_flag_on_post: Introduction to Markdown
+## Introduction to Markdown
 
 - Markdown is a lightweight markup language created in 2004 and used to format digital content for the world wide web :computer: :earth_americas:. 
 - Markdown is converted to HTML in order to be displayed in the browser or other applications. 
@@ -15,7 +15,7 @@
 - To create a markdown file use the extension .md.
 - HTML can be embedded within Markdown.
 
-## :triangular_flag_on_post: Text Basics with Markdown
+## Text Basics with Markdown
 
 Markup languages use symbols and specific syntax rules to format content. You can think of it as adding marks or 'marking up' 
 text to modify how it is displayed after conversion.
