@@ -6,9 +6,9 @@
 - [Text Basics](#zap-text-basics-with-markdown)
 - [Lists](#zap-lists-in-markdown)
 - [Tables](#zap-tables-in-markdown)
-- [Images](#images-in-markdown)
-- [Math and Science](#math-and-science-in-markdown)
-- [Emojis](#emojis-in-markdown)
+- [Images](#zap-images-in-markdown)
+- [Math and Science](#zap-math-and-science-in-markdown)
+- [Emojis](#zap-emojis-in-markdown)
 
 ###### :calendar:Created February 2023
 
