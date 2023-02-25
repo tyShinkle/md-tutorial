@@ -8,7 +8,7 @@
 - [Tables](#tables-in-markdown)
 - [Images](#images-in-markdown)
 - [Math and Science](#math-and-science-in-markdown)
-- [Emoji's](#emojis-in-markdown)
+- [Emojis](#emojis-in-markdown)
 
 ###### :calendar:Created February 2023
 
