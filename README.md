@@ -68,5 +68,7 @@ Here is a reference for marking up text...
 ***
 ## Math and Science in Markdown
 ***
+## Emoji's in Markdown
+***
 ## Display Values
 ***
