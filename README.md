@@ -13,7 +13,7 @@
 ###### :calendar:Created February 2023
 
 ***
-## :apple:Introduction to Markdown
+## :apple: Introduction to Markdown
 
 - Markdown is a lightweight markup language created in 2004 and used to format digital content.
 - Markdown is converted to HTML in order to be displayed in the browser or other applications. 
@@ -23,7 +23,7 @@
 
 ***
 
-## :tangerine:Text Basics with Markdown
+## :tangerine: Text Basics with Markdown
 
 Markup languages use symbols and specific syntax rules to format content. You can think of it as adding marks or 'marking up' 
 text to modify how it is displayed after conversion.
@@ -64,7 +64,7 @@ Here is a reference for marking up text...
 
 ***
 
-## :lemon:Lists in Markdown
+## :lemon: Lists in Markdown
 Here we will go over three types of lists. Please note that there is a space between the text and list item marker for every example.
 ### Unordered Lists
 Unordered lists have each list item demarcated by a bullet point.
