@@ -36,6 +36,8 @@ text to modify how it is displayed after conversion.
    <br>
    <br>
    This is because these are what is known as block elements in HTML.
+   <br>
+   <br>
   </td>
  </tr>
 </table>
