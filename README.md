@@ -20,6 +20,8 @@
 
 ## Text Basics with Markdown
 
+:green_circle:
+
 Markup languages use symbols and specific syntax rules to format content. You can think of it as adding marks or 'marking up' 
 text to modify how it is displayed after conversion.
 
@@ -37,4 +39,5 @@ Here is a reference for marking up text...
 |`*italic text*`| *italic text* | `<em>Italic Text</em>`
 |`**bold text**`| **bold text** | `<strong>bold text</strong>`|
 
+:red_circle:
 
