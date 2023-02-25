@@ -1,4 +1,4 @@
-# Markdown Tutorial :book:
+# Markdown Tutorial 
 :wave:Hello, this is a quick tutorial / reference for Markdown, specifially GitHub Flavored Markdown.
 
 ### Index
