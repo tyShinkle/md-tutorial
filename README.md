@@ -1,5 +1,5 @@
 # Markdown Tutorial :book:
-Hello, :wave: this is a quick tutorial / reference for Markdown, specifially Github Flavored Markdown.
+:wave:Hello, this is a quick tutorial / reference for Markdown, specifially Github Flavored Markdown.
 ###### Created February 2023
 ## Introduction to Markdown
 
