@@ -12,7 +12,7 @@
 - Markdown is a lightweight markup language created in 2004 and used to format digital content.
 - Markdown is converted to HTML in order to be displayed in the browser or other applications. 
 - There are different flavors of Markdown such as GitHub Flavored Markdown, Markdown Extra, Markua and more. This tutorial will focus on GitHub Flavored Markdown.
-- To create a markdown file use the extension .md.
+- To create a markdown file use the extension `.md`.
 - HTML can be embedded within Markdown.
 
 ## Text Basics with Markdown
