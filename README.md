@@ -24,7 +24,7 @@
 Markup languages use symbols and specific syntax rules to format content. You can think of it as adding marks or 'marking up' 
 text to modify how it is displayed after conversion.
  
-|:exlcamation:|text|
+|:exlcamation: | text |
 
 Here is a reference for marking up text...
 
