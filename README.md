@@ -44,6 +44,7 @@ Here is a reference for marking up text...
 |`**bold text**`| **bold text** | `<strong>bold text</strong>`|
 | `***bolid italic text***` | ***bold italic text*** | `<strong><em>bold italic text</strong></em>`|
 |`>blockquote text` | <blockquote>blockquote text</blockquote> | `<blockquote>blockquote text</blockquote>`|
+|`~~strikethrough~~` | <strikethrough>strikethrough</strikethrough>| 
 
 
 <table>
