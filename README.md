@@ -1,7 +1,9 @@
 # Markdown Tutorial {#top} :book:
 :wave:Hello, this is a quick tutorial / reference for Markdown, specifially GitHub Flavored Markdown.
-Index
+
+### Index
 - [Introduction](#intro)
+
 ###### :calendar:Created February 2023
 
 ## Introduction to Markdown {#intro}
