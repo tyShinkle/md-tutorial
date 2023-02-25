@@ -4,7 +4,7 @@
 ### Index
 - [Introduction](#appleintroduction-to-markdown)
 - [Text Basics](#tangerinetext-basics-with-markdown)
-- [Lists](#lists-in-markdown)
+- [Lists](#lemonlists-in-markdown)
 - [Tables](#tables-in-markdown)
 - [Images](#images-in-markdown)
 - [Math and Science](#math-and-science-in-markdown)
@@ -64,7 +64,7 @@ Here is a reference for marking up text...
 
 ***
 
-## Lists in Markdown
+## :lemon:Lists in Markdown
 Here we will go over three types of lists. Please note that there is a space between the text and list item marker for every example.
 ### Unordered Lists
 Unordered lists have each list item demarcated by a bullet point.
