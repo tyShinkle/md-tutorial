@@ -33,3 +33,4 @@ Here is a reference for marking up text...
 |`###### Header Six`| <h6> Header Six</h6> | `<h6>Header Six</h6>`|
 |`*italic text*`| *italic text* | `<em>Italic Text</em>`
 |`**bold text**`| **bold text** | `<strong>bold text</strong>`|
+| `***bolid italic text***` | ***bold italic text*** | `<strong><em>bold italic text</strong></em>`|
