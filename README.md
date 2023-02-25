@@ -5,7 +5,7 @@
 - [Introduction](#apple-introduction-to-markdown)
 - [Text Basics](#tangerine-text-basics-with-markdown)
 - [Lists](#lemon-lists-in-markdown)
-- [Tables](#tables-in-markdown)
+- [Tables](#cherries-tables-in-markdown)
 - [Images](#images-in-markdown)
 - [Math and Science](#math-and-science-in-markdown)
 - [Emojis](#emojis-in-markdown)
@@ -110,7 +110,7 @@ Unordered lists have each list item demarcated by a bullet point.
 - [ ] item three 
 
 ***
-## Tables in Markdown
+## :cherries: Tables in Markdown
 ***
 ## Images in Markdown
 ***
