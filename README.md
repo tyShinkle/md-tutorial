@@ -2,7 +2,7 @@
 :wave: Hello, this is a quick tutorial / reference for Markdown, specifially [GitHub Flavored Markdown](https://github.github.com/gfm/).
 
 ### Index
-- [Introduction](#zap-introduction-to-markdown)
+- [Introduction](#largebluediamond-introduction-to-markdown)
 - [Text Basics](#zap-text-basics-with-markdown)
 - [Lists](#zap-lists-in-markdown)
 - [Tables](#zap-tables-in-markdown)
@@ -13,7 +13,7 @@
 ###### :calendar:Created February 2023
 
 ***
-## :zap: Introduction to Markdown
+## :large_blue_diamond: Introduction to Markdown
 
 - Markdown is a lightweight markup language created in 2004 and used to format digital content.
 - Markdown is converted to HTML in order to be displayed in the browser or other applications. 
