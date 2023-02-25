@@ -45,10 +45,6 @@ Here is a reference for marking up text...
 | `***bolid italic text***` | ***bold italic text*** | `<strong><em>bold italic text</strong></em>`|
 | `>blockquote text` | <blockquote>blockquote text</blockquote> | `<blockquote>blockquote text</blockquote>`|
 | `~~strikethrough~~` | <s>strikethrough</s> | `<s>strikethrough</s>`|
-| `==hightlight==` | <mark>highlight</mark> | `<mark>hightlight</mark>`|
-
-==hightlight==
-
 
 <table>
  <tr>
