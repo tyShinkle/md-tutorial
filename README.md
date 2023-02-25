@@ -53,7 +53,7 @@ Here is a reference for marking up text...
    </br>
    Some Markdown elements such as <code># headers</code> are required to be the first characters on the lines which they appear.
    </br></br>
-   &nbsp;&#10060;<code>text # header text // will not work</code>
+   &nbsp;&#10060;<code>text # header text</code>
    </br>
    </br>
    This is because headers are known as <a href ="https://www.w3schools.com/html/html_blocks.asp"> block elements </a> in both HTML and Markdown. 
