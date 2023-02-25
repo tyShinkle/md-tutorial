@@ -1,4 +1,4 @@
-# Markdown Tutorial :wave:
+# Markdown Tutorial :eyeglasses:
 
 ## Introduction to Markdown
 
