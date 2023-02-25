@@ -112,9 +112,9 @@ Unordered lists have each list item demarcated by a bullet point.
 ***
 ## :zap: Tables in Markdown
 ***
-## :small_red_triangle_down: Images in Markdown
+## :zap: Images in Markdown
 ***
-## Math and Science in Markdown
+## :zap: Math and Science in Markdown
 ***
-## Emojis in Markdown
+## :zap: Emojis in Markdown
 ***
