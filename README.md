@@ -2,9 +2,9 @@
 :wave: Hello, this is a quick tutorial / reference for Markdown, specifially [GitHub Flavored Markdown](https://github.github.com/gfm/).
 
 ### Index
-- [Introduction](#appleintroduction-to-markdown)
-- [Text Basics](#tangerinetext-basics-with-markdown)
-- [Lists](#lemonlists-in-markdown)
+- [Introduction](#apple-introduction-to-markdown)
+- [Text Basics](#tangerine-text-basics-with-markdown)
+- [Lists](#lemon-lists-in-markdown)
 - [Tables](#tables-in-markdown)
 - [Images](#images-in-markdown)
 - [Math and Science](#math-and-science-in-markdown)
