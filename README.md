@@ -128,13 +128,12 @@ Unordered lists have each list item demarcated by a bullet point.
 
 #### HTML Equivalent
 ```html
-<input type="checkbox" id="itemOne" value="one">
+<input type="checkbox" id="itemOne" name="itemOne" value="itemOne"/>
 <label for="itemOne"> item one </label>
+<br>
+<input type="checkbox" id="itemTwo" name="itemTwo" value="itemTwo"/>
+<label for="itemTwo"> item two </label>
 ```
-
-<input type="text" id="one" name="one"/>
-<label for="one">itemOne</label>
-<input type="text" id="one" name="one"/>
 
 ***
 ## :zap: Tables in Markdown
