@@ -66,7 +66,7 @@ Here is a reference for marking up text...
 
 ## :zap: Lists in Markdown
 Here we will go over three types of lists. Please note that there is a space between the text and list item marker for every example.
-### :small_red_triangle_down: Unordered Lists
+### :arrow_down_small: Unordered Lists
 Unordered lists have each list item demarcated by a bullet point.
 #### Markdown :arrow_right:
 ```
@@ -86,7 +86,7 @@ Unordered lists have each list item demarcated by a bullet point.
  <li>item three</li>
 </ul>
 ```
-### :small_red_triangle_down: Ordered Lists
+### :arrow_down_small: Ordered Lists
 #### Markdown :arrow_right:
 ```
 1. item one
@@ -97,7 +97,7 @@ Unordered lists have each list item demarcated by a bullet point.
 1. item one
 2. item two
 3. item three
-### :small_red_triangle_down: Task List
+### :arrow_down_small: Task List
 #### Markdown :arrow_right:
 ```
 - [x] item one
