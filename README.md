@@ -82,7 +82,7 @@ Unordered lists have each list item demarcated by a bullet point.
 - item two 
 - item three
 
-#### HTML equivalent 
+#### HTML Equivalent 
 ```html
 <ul>
  <li>item one</li>
@@ -92,6 +92,7 @@ Unordered lists have each list item demarcated by a bullet point.
 ```
 
 ### :arrow_down_small: Ordered Lists
+
 #### Markdown 
 ```
 1. item one
@@ -104,7 +105,7 @@ Unordered lists have each list item demarcated by a bullet point.
 2. item two
 3. item three
 
-#### HTML equivalent 
+#### HTML Equivalent 
 ```html
 <ol>
  <li>item one</li>
@@ -113,6 +114,7 @@ Unordered lists have each list item demarcated by a bullet point.
 </ol>
 ```
 ### :arrow_down_small: Task List
+
 #### Markdown 
 ```
 - [x] item one
@@ -123,6 +125,12 @@ Unordered lists have each list item demarcated by a bullet point.
 - [x] item one
 - [ ] item two 
 - [ ] item three 
+
+#### HTML Equivalent
+```html
+<input tyle="checkbox" id="itemOne" value="one">
+<label for="itemOne"> item one </label>
+```
 
 ***
 ## :zap: Tables in Markdown
