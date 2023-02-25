@@ -3,6 +3,7 @@
 
 ### Index
 - [Introduction](#introduction-to-markdown)
+- [Text Basics](#text-basics-with-markdown)
 
 ###### :calendar:Created February 2023
 
