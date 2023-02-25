@@ -25,5 +25,5 @@ Here is a reference for marking up text...
 |`##### Header Five`| <h4> Header Five </h5> | `<h5>Header Five</h5>`|
 |`###### Header Six`| <h6> Header Six</h6> | `<h6>Header Six</h6>`|
 |`**bold text**`| **bold text** | `<strong>bold text</strong>`|
-|*test*
+|`*italic text*`| *italic text* | `<em>Italic Text</em>`
 
