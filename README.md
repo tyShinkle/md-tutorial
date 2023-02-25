@@ -18,6 +18,6 @@ Here is a reference for marking up text...
 |:--------:|:------:|:---------------:|
 |```# Header One```| <h1>Header One</h1> | `<h1>Header One</h1>`|
 |```## Header Two```| <h2>Header Two</h2> | `<h2>Header Two</h2>`|
-| ... | ... | ...|
-|```###### Header Six```| <h6> Header Six</h6> | `<h6>Header Six</h6`>
+| .<br>.<br>. | .<br>.<br>. | .<br>.<br>.|
+|```###### Header Six```| <h6> Header Six</h6> | `<h6>Header Six</h6>`|
 
