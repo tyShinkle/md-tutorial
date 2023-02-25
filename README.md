@@ -57,6 +57,7 @@ Here is a reference for marking up text...
   </td>
  </tr>
 </table>
+
 ## Lists in Markdown
 ***
 ## Tables in Markdown
