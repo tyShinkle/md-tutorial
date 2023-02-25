@@ -46,7 +46,7 @@ Here is a reference for marking up text...
   <td>&#10071;</td>
   <td>
    <br>
-   Some Markdown markings such as headers are required to be the first characters on the lines which they appear.
+   Some Markdown markings such as <code># headers</code> are required to be the first characters on the lines which they appear.
    <br><br>
    &nbsp;&#10060;<code>text # header text</code>
    <br>
