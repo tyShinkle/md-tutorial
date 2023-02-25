@@ -1,5 +1,6 @@
 # Markdown Tutorial :book:
-
+### By Ty Shinkle
+#### February 2023
 ## Introduction to Markdown :wave:
 
 - Markdown is a lightweight markup language created in 2004 and used to format digital content. 
