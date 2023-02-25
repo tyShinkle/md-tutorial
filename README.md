@@ -16,7 +16,7 @@ Here is a reference for marking up text...
 
 | Markdown | Output |
 |----------|--------|
-|```# Title```| # Title|
+|```# Title```| <h1>Title</h1> |
 
 ```
 # Heading 1
