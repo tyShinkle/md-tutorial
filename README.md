@@ -1,4 +1,4 @@
-# Markdown Tutorial {#top} :book:
+# Markdown Tutorial :book:
 :wave:Hello, this is a quick tutorial / reference for Markdown, specifially GitHub Flavored Markdown.
 
 ### Index
@@ -6,7 +6,7 @@
 
 ###### :calendar:Created February 2023
 
-## Introduction to Markdown {#intro}
+## Introduction to Markdown
 
 - Markdown is a lightweight markup language created in 2004 and used to format digital content for the world wide web :computer: :earth_americas:. 
 - Markdown is converted to HTML in order to be displayed in the browser or other applications. 
@@ -14,7 +14,7 @@
 - To create a markdown file use the extension .md.
 - HTML can be embedded within Markdown.
 
-## Text Basics with Markdown{#text-basics}
+## Text Basics with Markdown
 
 Markup languages use symbols and specific syntax rules to format content. You can think of it as adding marks or 'marking up' 
 text to modify how it is displayed after conversion.
