@@ -28,7 +28,7 @@ text to modify how it is displayed after conversion.
 <table>
  <tr>
   <td>&#10071;</td>
-  <td>test</td>
+  <td>Some Markdown markings are required to be the first characters on the lines which they appear. For example, trying to have an inline heading such as... <code>text # header text</code> would not work</td>
  </tr>
 </table>
 
