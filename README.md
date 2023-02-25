@@ -66,7 +66,6 @@ Here is a reference for marking up text...
 ***
 
 ## Lists in Markdown
-
 ### Unordered Lists
 #### Markdown :arrow_right:
 ```
@@ -78,7 +77,6 @@ Here is a reference for marking up text...
 - item one
 - item two 
 - item three
-
 ### Ordered Lists
 #### Markdown :arrow_right:
 ```
@@ -90,7 +88,6 @@ Here is a reference for marking up text...
 1. item one
 2. item two
 3. item three
-
 ### Task List
 #### Markdown :arrow_right:
 ```
