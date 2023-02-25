@@ -70,19 +70,19 @@ Here we will go over three types of lists. Please note that there is a space bet
 ### :arrow_down_small: Unordered Lists
 Unordered lists have each list item demarcated by a bullet point.
 
-#### Markdown :arrow_right:
+#### Markdown 
 ```
 - item one
 - item two 
 - item three
 ```
 
-#### Output :arrow_right:
+#### Output 
 - item one
 - item two 
 - item three
 
-#### HTML equivalent :arrow_right:
+#### HTML equivalent 
 ```html
 <ul>
  <li>item one</li>
@@ -92,17 +92,17 @@ Unordered lists have each list item demarcated by a bullet point.
 ```
 
 ### :arrow_down_small: Ordered Lists
-#### Markdown :arrow_right:
+#### Markdown 
 ```
 1. item one
 2. item two
 3. item three
 ```
-#### Output :arrow_right:
+#### Output 
 1. item one
 2. item two
 3. item three
-#### HTML equivalent :arrow_right:
+#### HTML equivalent 
 ```html
 <ol>
  <li>item one</li>
@@ -111,13 +111,13 @@ Unordered lists have each list item demarcated by a bullet point.
 </ol>
 ```
 ### :arrow_down_small: Task List
-#### Markdown :arrow_right:
+#### Markdown 
 ```
 - [x] item one
 - [ ] item two
 - [ ] item three
 ```
-#### Output :arrow_right:
+#### Output 
 - [x] item one
 - [ ] item two 
 - [ ] item three 
