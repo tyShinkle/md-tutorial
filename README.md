@@ -4,7 +4,7 @@
 ### Index
 - [Introduction](#large_blue_diamond-introduction-to-markdown)
 - [Text Basics](#large_blue_diamond-text-basics-with-markdown)
-- [Lists](#zap-lists-in-markdown)
+- [Lists](#large_blue_diamond-lists-in-markdown)
 - [Tables](#zap-tables-in-markdown)
 - [Images](#zap-images-in-markdown)
 - [Math and Science](#zap-math-and-science-in-markdown)
@@ -64,9 +64,9 @@ Here is a reference for marking up text...
 
 ***
 
-## :zap: Lists in Markdown
+## :large_blue_diamond: Lists in Markdown
 Here we will go over three types of lists. Please note that there is a space between the text and list item marker for every example.
-### Unordered Lists
+### :small_blue_diamond: Unordered Lists
 Unordered lists have each list item demarcated by a bullet point.
 #### Markdown :arrow_right:
 ```
