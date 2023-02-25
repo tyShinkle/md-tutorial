@@ -81,6 +81,7 @@ Unordered lists have each list item demarcated by a bullet point.
 - item one
 - item two 
 - item three
+<br>
 
 #### HTML equivalent 
 ```html
@@ -102,7 +103,8 @@ Unordered lists have each list item demarcated by a bullet point.
 #### Output 
 1. item one
 2. item two
-3. item three
+3. item three\
+<br>
 
 #### HTML equivalent 
 ```html
