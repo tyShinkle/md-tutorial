@@ -26,7 +26,7 @@ text to modify how it is displayed after conversion.
  
 <table>
  <tr>
-  <td>:exclamtion</td>
+  <td>:exclamtion:</td>
   <td>test</td>
  </tr>
 </table>
