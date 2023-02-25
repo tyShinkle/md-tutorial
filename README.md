@@ -26,6 +26,7 @@ text to modify how it is displayed after conversion.
  
 
 <table>
+ <br>
  <tr>
   <td>&#10071;</td>
   <td>Some Markdown markings such as headers are required to be ther first characters on the lines which they appear.
@@ -33,6 +34,7 @@ text to modify how it is displayed after conversion.
    &nbsp;&#10060;<code>text # header text</code>
   </td>
  </tr>
+ <br>
 </table>
 
 Here is a reference for marking up text...
