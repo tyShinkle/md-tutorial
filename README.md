@@ -66,7 +66,7 @@ Here is a reference for marking up text...
 
 ## :zap: Lists in Markdown
 Here we will go over three types of lists. Please note that there is a space between the text and list item marker for every example.
-### :small_blue_diamond: Unordered Lists
+### :small_red_triangle_down: Unordered Lists
 Unordered lists have each list item demarcated by a bullet point.
 #### Markdown :arrow_right:
 ```
