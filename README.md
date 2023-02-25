@@ -3,7 +3,7 @@
 
 ### Index
 - [Introduction](#large_blue_diamond-introduction-to-markdown)
-- [Text Basics](#zap-text-basics-with-markdown)
+- [Text Basics](#large_blue_diamond-text-basics-with-markdown)
 - [Lists](#zap-lists-in-markdown)
 - [Tables](#zap-tables-in-markdown)
 - [Images](#zap-images-in-markdown)
@@ -23,7 +23,7 @@
 
 ***
 
-## :zap: Text Basics with Markdown
+## :large_blue_diamond: Text Basics with Markdown
 
 Markup languages use symbols and specific syntax rules to format content. You can think of it as adding marks or 'marking up' 
 text to modify how it is displayed after conversion.
