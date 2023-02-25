@@ -7,3 +7,5 @@
 - There are different flavors of Markdown such as GitHub Flavored Markdown, Markdown Extra, Markua and more.
 
 ## Formatting Text with Markdown
+
+Markup languages have syntax rules and add additional symbols to text or 'markup' traditional content.
