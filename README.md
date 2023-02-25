@@ -23,5 +23,6 @@ Here is a reference for marking up text...
 |```#### Header Four```| <h4> Header Four </h4> | `<h4>Header Four</h4>` |
 |```##### Header Five```| <h4> Header Five </h5> | `<h5>Header Five</h5>`|
 |```###### Header Six```| <h6> Header Six</h6> | `<h6>Header Six</h6>`|
+| normal text | normal text | normal text |
 |```**bold text**```| **bold text** | `<strong>bold text</strong>`|
 
