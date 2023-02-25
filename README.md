@@ -80,7 +80,7 @@ Here is a reference for marking up text...
 - item three
 
 ### Ordered Lists
-#### Markdowm: :arrow_right:
+#### Markdown :arrow_right:
 ```
 1. item one
 2. item two
@@ -90,6 +90,19 @@ Here is a reference for marking up text...
 1. item one
 2. item two
 3. item three
+
+### Task List
+#### Markdown :arrow_right:
+```
+-[x] item one
+-[ ] item two
+-[ ] item three
+```
+#### Output :arrow_right:
+-[x] item one
+-[ ] item two 
+-[ ] item three 
+
 ***
 ## Tables in Markdown
 ***
