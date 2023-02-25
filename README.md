@@ -132,7 +132,7 @@ Unordered lists have each list item demarcated by a bullet point.
 <label for="itemOne"> item one </label>
 ```
 
-<input type="checkbox" id="one" name="one" checked>
+<input type="checkbox" id="one" name="one" checked/>
 <label for="one">itemOne</label>
 
 ***
