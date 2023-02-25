@@ -6,6 +6,7 @@
 - Markdown is converted to HTML in order to be displayed in the browser or other applications. 
 - There are different flavors of Markdown such as GitHub Flavored Markdown, Markdown Extra, Markua and more.
 - To create a markdown file use the extension .md.
+- HTML can be embedded within Markdown.
 
 ## Formatting Text with Markdown
 
@@ -20,5 +21,6 @@ Here is a reference for marking up text...
 |```## Header Two```| <h2>Header Two</h2> | `<h2>Header Two</h2>`|
 |```### Header Three``` | <h3> Header Three </h3> | `<h3>Header Three</h3>`|
 |```#### Header Four```| <h4> Header Four </h4> | `<h4>Header Four</h4>` |
+|```##### Header Five```| <h4> Header Five </h5> | `<h5>Header Five</h5>`|
 |```###### Header Six```| <h6> Header Six</h6> | `<h6>Header Six</h6>`|
 
