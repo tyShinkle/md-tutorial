@@ -1,11 +1,11 @@
 # Markdown Tutorial :book:
-:wave:Hello, this is a quick tutorial / reference for Markdown, specifially Github Flavored Markdown.
+:wave:Hello, this is a quick tutorial / reference for Markdown, specifially GitHub Flavored Markdown.
 ###### :calendar:Created February 2023
 ## Introduction to Markdown
 
 - Markdown is a lightweight markup language created in 2004 and used to format digital content for the world wide web:earth_americas:. 
 - Markdown is converted to HTML in order to be displayed in the browser or other applications. 
-- There are different flavors of Markdown such as GitHub Flavored Markdown, Markdown Extra, Markua and more.
+- There are different flavors of Markdown such as GitHub Flavored Markdown, Markdown Extra, Markua and more. This tutorial will focus on GitHub Flavored Markdown.
 - To create a markdown file use the extension .md.
 - HTML can be embedded within Markdown.
 
