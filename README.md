@@ -14,6 +14,10 @@ text to modify how it is displayed after conversion.
 
 Here is a reference for marking up text...
 
+| Markdown | Output |
+|----------|--------|
+|```# Title```| # Title|
+
 ```
 # Heading 1
 ```
