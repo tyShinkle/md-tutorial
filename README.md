@@ -4,6 +4,12 @@
 ### Index
 - [Introduction](#introduction-to-markdown)
 - [Text Basics](#text-basics-with-markdown)
+- [Lists](#lists-in-markdown)
+- [Tables](#tables-in-markdown)
+- [Images](#images-in-markdown)
+- [Math and Science](#math-and-science-in-markdown)
+- [Emoji's](#emoji's-in-markdown)
+- 
 
 ###### :calendar:Created February 2023
 
@@ -69,6 +75,4 @@ Here is a reference for marking up text...
 ## Math and Science in Markdown
 ***
 ## Emoji's in Markdown
-***
-## Display Values
 ***
