@@ -1,4 +1,4 @@
-# Markdown Tutorial :eyeglasses:
+# Markdown Tutorial :book:
 
 ## Introduction to Markdown
 
