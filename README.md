@@ -14,9 +14,9 @@ text to modify how it is displayed after conversion.
 
 Here is a reference for marking up text...
 
-| Markdown | Output |
-|----------|--------|
-|```# Title```| <h1>Title</h1> |
+| Markdown | Output | HTML Equivalent |
+|----------|--------|-----------------|
+|```# Title```| <h1>Title</h1> | `<h1>`
 
 ```
 # Heading 1
