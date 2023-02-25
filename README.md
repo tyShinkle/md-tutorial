@@ -8,7 +8,6 @@
 ###### :calendar:Created February 2023
 
 ## Introduction to Markdown
-:green_circle:
 
 - Markdown is a lightweight markup language created in 2004 and used to format digital content for the world wide web :computer: :earth_americas:. 
 - Markdown is converted to HTML in order to be displayed in the browser or other applications. 
@@ -16,11 +15,7 @@
 - To create a markdown file use the extension .md.
 - HTML can be embedded within Markdown.
 
-:red_circle:
-
 ## Text Basics with Markdown
-
-:green_circle:
 
 Markup languages use symbols and specific syntax rules to format content. You can think of it as adding marks or 'marking up' 
 text to modify how it is displayed after conversion.
@@ -38,6 +33,3 @@ Here is a reference for marking up text...
 |`###### Header Six`| <h6> Header Six</h6> | `<h6>Header Six</h6>`|
 |`*italic text*`| *italic text* | `<em>Italic Text</em>`
 |`**bold text**`| **bold text** | `<strong>bold text</strong>`|
-
-:red_circle:
-
