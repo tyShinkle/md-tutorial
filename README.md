@@ -24,6 +24,22 @@
 Markup languages use symbols and specific syntax rules to format content. You can think of it as adding marks or 'marking up' 
 text to modify how it is displayed after conversion.
  
+Here is a reference for marking up text...
+
+| Markdown | Output | HTML Equivalent |
+|:--------:|:------:|:---------------:|
+| `normal text` | normal text | `normal text` |
+|`# Header One`| <h1>Header One</h1> | `<h1>Header One</h1>`|
+|`## Header Two`| <h2>Header Two</h2> | `<h2>Header Two</h2>`|
+|`### Header Three` | <h3> Header Three </h3> | `<h3>Header Three</h3>`|
+|`#### Header Four`| <h4> Header Four </h4> | `<h4>Header Four</h4>` |
+|`##### Header Five`| <h4> Header Five </h5> | `<h5>Header Five</h5>`|
+|`###### Header Six`| <h6> Header Six</h6> | `<h6>Header Six</h6>`|
+|`*italic text*`| *italic text* | `<em>Italic Text</em>`
+|`**bold text**`| **bold text** | `<strong>bold text</strong>`|
+| `***bolid italic text***` | ***bold italic text*** | `<strong><em>bold italic text</strong></em>`|
+|`>blockquote text` | <blockquote>blockquote text</blockquote> | `<blockquote>blockquote text</blockquote>`|
+
 
 <table>
  <tr>
@@ -41,19 +57,3 @@ text to modify how it is displayed after conversion.
   </td>
  </tr>
 </table>
-
-Here is a reference for marking up text...
-
-| Markdown | Output | HTML Equivalent |
-|:--------:|:------:|:---------------:|
-| `normal text` | normal text | `normal text` |
-|`# Header One`| <h1>Header One</h1> | `<h1>Header One</h1>`|
-|`## Header Two`| <h2>Header Two</h2> | `<h2>Header Two</h2>`|
-|`### Header Three` | <h3> Header Three </h3> | `<h3>Header Three</h3>`|
-|`#### Header Four`| <h4> Header Four </h4> | `<h4>Header Four</h4>` |
-|`##### Header Five`| <h4> Header Five </h5> | `<h5>Header Five</h5>`|
-|`###### Header Six`| <h6> Header Six</h6> | `<h6>Header Six</h6>`|
-|`*italic text*`| *italic text* | `<em>Italic Text</em>`
-|`**bold text**`| **bold text** | `<strong>bold text</strong>`|
-| `***bolid italic text***` | ***bold italic text*** | `<strong><em>bold italic text</strong></em>`|
-|`>blockquote text` | <blockquote>blockquote text</blockquote> | `<blockquote>blockquote text</blockquote>`|
