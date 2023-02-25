@@ -2,9 +2,9 @@
 :wave: Hello, this is a quick tutorial / reference for Markdown, specifially [GitHub Flavored Markdown](https://github.github.com/gfm/).
 
 ### Index
-- [Introduction](#large_blue_diamond-introduction-to-markdown)
-- [Text Basics](#large_blue_diamond-text-basics-with-markdown)
-- [Lists](#large_blue_diamond-lists-in-markdown)
+- [Introduction](#zap-introduction-to-markdown)
+- [Text Basics](#zap-text-basics-with-markdown)
+- [Lists](#zap-lists-in-markdown)
 - [Tables](#zap-tables-in-markdown)
 - [Images](#zap-images-in-markdown)
 - [Math and Science](#zap-math-and-science-in-markdown)
@@ -13,7 +13,7 @@
 ###### :calendar:Created February 2023
 
 ***
-## :large_blue_diamond: Introduction to Markdown
+## :zap: Introduction to Markdown
 
 - Markdown is a lightweight markup language created in 2004 and used to format digital content.
 - Markdown is converted to HTML in order to be displayed in the browser or other applications. 
@@ -23,7 +23,7 @@
 
 ***
 
-## :large_blue_diamond: Text Basics with Markdown
+## :zap: Text Basics with Markdown
 
 Markup languages use symbols and specific syntax rules to format content. You can think of it as adding marks or 'marking up' 
 text to modify how it is displayed after conversion.
@@ -64,7 +64,7 @@ Here is a reference for marking up text...
 
 ***
 
-## :large_blue_diamond: Lists in Markdown
+## :zap: Lists in Markdown
 Here we will go over three types of lists. Please note that there is a space between the text and list item marker for every example.
 ### :small_blue_diamond: Unordered Lists
 Unordered lists have each list item demarcated by a bullet point.
