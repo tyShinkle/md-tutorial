@@ -34,6 +34,7 @@ text to modify how it is displayed after conversion.
    <br><br>
    &nbsp;&#10060;<code>text # header text</code>
    <br>
+   <br>
    This is because these are what is known as block elements in HTML.
   </td>
  </tr>
