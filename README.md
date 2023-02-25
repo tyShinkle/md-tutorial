@@ -98,10 +98,12 @@ Unordered lists have each list item demarcated by a bullet point.
 2. item two
 3. item three
 ```
+
 #### Output 
 1. item one
 2. item two
 3. item three
+
 #### HTML equivalent 
 ```html
 <ol>
