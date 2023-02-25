@@ -1,6 +1,7 @@
 # Markdown Tutorial :book:
+Hello, :wave: this is a quick tutorial / reference for Markdown, specifially Github Flavored Markdown.
 Created February 2023
-## Introduction to Markdown :wave:
+## Introduction to Markdown
 
 - Markdown is a lightweight markup language created in 2004 and used to format digital content. 
 - Markdown is converted to HTML in order to be displayed in the browser or other applications. 
