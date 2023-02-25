@@ -9,3 +9,5 @@
 ## Formatting Text with Markdown
 
 Markup languages have syntax rules and add additional symbols to text or 'markup' traditional content.
+
+Here is a reference for marking up text...
