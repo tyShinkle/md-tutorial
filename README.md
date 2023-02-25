@@ -66,6 +66,7 @@ Here is a reference for marking up text...
 ***
 
 ## Lists in Markdown
+Here we will go over three types of lists. Please note that there is a space between the text and list item marker for every example.
 ### Unordered Lists
 #### Markdown :arrow_right:
 ```
