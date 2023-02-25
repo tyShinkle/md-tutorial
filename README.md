@@ -19,10 +19,6 @@
 
 ***
 
-## Whitespace in Markdown
-
-***
-
 ## Text Basics with Markdown
 
 Markup languages use symbols and specific syntax rules to format content. You can think of it as adding marks or 'marking up' 
@@ -67,6 +63,8 @@ Here is a reference for marking up text...
 ## Lists in Markdown
 ***
 ## Tables in Markdown
+***
+## Images in Markdown
 ***
 ## Display Values
 ***
