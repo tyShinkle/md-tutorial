@@ -3,7 +3,7 @@
 
 ### Index
 - [Introduction](#appleintroduction-to-markdown)
-- [Text Basics](#text-basics-with-markdown)
+- [Text Basics](#tangerinetext-basics-with-markdown)
 - [Lists](#lists-in-markdown)
 - [Tables](#tables-in-markdown)
 - [Images](#images-in-markdown)
@@ -23,7 +23,7 @@
 
 ***
 
-## Text Basics with Markdown
+## :tangerine:Text Basics with Markdown
 
 Markup languages use symbols and specific syntax rules to format content. You can think of it as adding marks or 'marking up' 
 text to modify how it is displayed after conversion.
