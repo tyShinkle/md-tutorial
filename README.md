@@ -19,8 +19,9 @@
 
 Markup languages use symbols and specific syntax rules to format content. You can think of it as adding marks or 'marking up' 
 text to modify how it is displayed after conversion.
+ 
+***
 
-:exclamation:
 >Some markup such as headers need to be the first characters of a line. That is because headers are block elements in HTML. When Markdown is converted to HTML, unexpected results may occur if block elements are not the first characters on the line which they appear.
 
 Here is a reference for marking up text...
