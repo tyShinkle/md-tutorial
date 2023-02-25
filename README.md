@@ -66,6 +66,18 @@ Here is a reference for marking up text...
 ***
 
 ## Lists in Markdown
+
+### Unordered Lists
+#### Markdown
+```
+- item one
+- item two 
+- item three
+```
+#### Output
+- item one
+- item two 
+- item three
 ***
 ## Tables in Markdown
 ***
