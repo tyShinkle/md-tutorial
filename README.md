@@ -1,6 +1,6 @@
 # Markdown Tutorial :book:
 
-## Introduction to Markdown
+## Introduction to Markdown :wave:
 
 - Markdown is a lightweight markup language created in 2004 and used to format digital content. 
 - Markdown is converted to HTML in order to be displayed in the browser or other applications. 
