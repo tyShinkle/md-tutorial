@@ -68,13 +68,13 @@ Here is a reference for marking up text...
 ## Lists in Markdown
 
 ### Unordered Lists
-#### Markdown
+#### Markdown :arrow_right:
 ```
 - item one
 - item two 
 - item three
 ```
-#### Output
+#### Output :arrow_right:
 - item one
 - item two 
 - item three
