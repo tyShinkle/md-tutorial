@@ -128,11 +128,14 @@ Unordered lists have each list item demarcated by a bullet point.
 
 #### HTML Equivalent
 ```html
-<input type="checkbox" id="itemOne" name="itemOne" value="itemOne"/>
+<input type="checkbox" id="itemOne" name="itemOne" value="itemOne" checked/>
 <label for="itemOne"> item one </label>
 <br>
 <input type="checkbox" id="itemTwo" name="itemTwo" value="itemTwo"/>
 <label for="itemTwo"> item two </label>
+<br>
+<input type="checkbox" id="itemThree" name="itemThree" value="itemThree"/>
+<label for="itemThree"> item three </label>
 ```
 
 ***
