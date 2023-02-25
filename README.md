@@ -2,7 +2,7 @@
 :wave:Hello, this is a quick tutorial / reference for Markdown, specifially GitHub Flavored Markdown.
 
 ### Index
-- [Introduction](#intro)
+- [Introduction](#introduction-to-markdown)
 
 ###### :calendar:Created February 2023
 
