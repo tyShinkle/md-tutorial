@@ -47,10 +47,10 @@ Here is a reference for marking up text...
   <td>
    </br>
    Some Markdown markings such as <code># headers</code> are required to be the first characters on the lines which they appear.
-   <br><br>
+   </br></br>
    &nbsp;&#10060;<code>text # header text</code>
-   <br>
-   <br>
+   </br>
+   </br>
    This is because headers are known as <a href ="https://www.w3schools.com/html/html_blocks.asp"> block elements </a> in HTML. Learn more about this in the section about <a href = "#display-values">display values</a>.
    </br>
    </br>
