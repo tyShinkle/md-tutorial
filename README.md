@@ -7,6 +7,8 @@
 
 ###### :calendar:Created February 2023
 
+***
+
 ## Introduction to Markdown
 
 - Markdown is a lightweight markup language created in 2004 and used to format digital content.
@@ -15,13 +17,13 @@
 - To create a Markdown file you can use notepad and save the file with the `.md` extension. Open it with your browser to view it. You could also just create a repo on GitHub and practice your GFM (GitHub Flavored Markdown) in a `README.md`.
 - HTML can be embedded within Markdown.
 
+***
+
 ## Text Basics with Markdown
 
 Markup languages use symbols and specific syntax rules to format content. You can think of it as adding marks or 'marking up' 
 text to modify how it is displayed after conversion.
  
-***
-
 >Some markup such as headers need to be the first characters of a line. That is because headers are block elements in HTML. When Markdown is converted to HTML, unexpected results may occur if block elements are not the first characters on the line which they appear.
 
 Here is a reference for marking up text...
