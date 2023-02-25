@@ -86,7 +86,7 @@ Unordered lists have each list item demarcated by a bullet point.
  <li>item three</li>
 </ul>
 ```
-### Ordered Lists
+### :small_red_triangle_down: Ordered Lists
 #### Markdown :arrow_right:
 ```
 1. item one
@@ -97,7 +97,7 @@ Unordered lists have each list item demarcated by a bullet point.
 1. item one
 2. item two
 3. item three
-### Task List
+### :small_red_triangle_down: Task List
 #### Markdown :arrow_right:
 ```
 - [x] item one
