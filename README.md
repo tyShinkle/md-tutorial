@@ -29,7 +29,9 @@ text to modify how it is displayed after conversion.
  <tr>
   <td>&#10071;</td>
   <td>Some Markdown markings such as headers are required to be ther first characters on the lines which they appear.<br><br>&nbsp;&#10060;<code>text # header text</code>
-   <br>&nbsp;&#9989;<code> text<br>+# header<br>+text</code>
+   <br>&nbsp;&#9989;<code>text
+   +# header
+   +text</code>
   </td>
  </tr>
 </table>
