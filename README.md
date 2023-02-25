@@ -68,10 +68,12 @@ Here is a reference for marking up text...
 ## Lists in Markdown
 Here we will go over three types of lists. Please note that there is a space between the text and list item marker for every example.
 ### Unordered Lists
-Equivalent to 
+HTML equivalent :arrow_right:
 ```html
 <ul>
  <li>item one</li>
+ <li>item two</li>
+ <li>item three</li>
 </ul>
 ```
 #### Markdown :arrow_right:
