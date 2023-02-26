@@ -138,6 +138,12 @@ Unordered lists have each list item demarcated by a bullet point.
 <label for="itemThree"> item three </label>
 ```
 
+### Nested Lists
+
+#### Markdown
+- item one
+ - nested item one
+
 ***
 ## :briefcase: Tables in Markdown
 ***
