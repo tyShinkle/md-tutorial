@@ -1,5 +1,5 @@
 # Markdown Tutorial 
-:wave: Hello, this is a quick tutorial / reference for Markdown, specifially [GitHub Flavored Markdown](https://github.github.com/gfm/).
+This is a quick tutorial / reference for Markdown, specifially [GitHub Flavored Markdown](https://github.github.com/gfm/).
 
 ### Index
 - [Introduction](#wave-introduction-to-markdown)
