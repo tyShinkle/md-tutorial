@@ -64,7 +64,7 @@ Here is a reference for marking up text...
 
 ***
 
-## :bookmark_tabs: Lists in Markdown
+## :scroll: Lists in Markdown
 Here we will go over three types of lists. Please note that there is a space between the text and list item marker for every example.
 
 ### Unordered Lists
