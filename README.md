@@ -142,7 +142,7 @@ Unordered lists have each list item demarcated by a bullet point.
 
 #### Markdown
 - item one
- - nested item one
+    - nested item one
 
 ***
 ## :briefcase: Tables in Markdown
