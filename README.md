@@ -190,7 +190,7 @@ In order to nest a list or other element such as a blockquote within a list an i
   <li>item three</li>
   <ol>
     <li>nested item three</li>
-    <li>neted item four</li>
+    <li>nested item four</li>
   </ol>
 </ul>
 ```
