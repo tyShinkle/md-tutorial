@@ -67,7 +67,7 @@ Here is a reference for marking up text...
 ## :bookmark_tabs: Lists in Markdown
 Here we will go over three types of lists. Please note that there is a space between the text and list item marker for every example.
 
-### :white_small_square: Unordered Lists
+### :white_medium_square: Unordered Lists
 Unordered lists have each list item demarcated by a bullet point.
 
 #### Markdown 
