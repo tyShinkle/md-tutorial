@@ -5,10 +5,10 @@
 - [Introduction](#wave-introduction-to-markdown)
 - [Text Basics](#pencil2-text-basics-with-markdown)
 - [Lists](#bookmark_tabs-lists-in-markdown)
-- [Tables](#zap-tables-in-markdown)
-- [Images](#zap-images-in-markdown)
-- [Math and Science](#zap-math-and-science-in-markdown)
-- [Emojis](#zap-emojis-in-markdown)
+- [Tables](#briefcase-tables-in-markdown)
+- [Images](#sunflower-images-in-markdown)
+- [Math and Science](#smile-math-and-science-in-markdown)
+- [Emojis](#test_tube-emojis-in-markdown)
 
 ###### :calendar:Created February 2023
 
@@ -139,11 +139,11 @@ Unordered lists have each list item demarcated by a bullet point.
 ```
 
 ***
-## :zap: Tables in Markdown
+## :briefcase: Tables in Markdown
 ***
-## :zap: Images in Markdown
+## :sunflower: Images in Markdown
 ***
-## :zap: Math and Science in Markdown
+## :test_tube: Math and Science in Markdown
 ***
-## :zap: Emojis in Markdown
+## :smile: Emojis in Markdown
 ***
