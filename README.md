@@ -173,6 +173,7 @@ Ordered lists have each list item demarcated by numbers 1, 2, 3 etc... If an ord
     2. nested item four
     
 #### HTML Equivalent
+```html
 <ul>
   <li>item one</li>
   <ul>
@@ -188,6 +189,7 @@ Ordered lists have each list item demarcated by numbers 1, 2, 3 etc... If an ord
     <li>neted item four</li>
   </ol>
 </ul>
+```
 
 ***
 ## :briefcase: Tables in Markdown
