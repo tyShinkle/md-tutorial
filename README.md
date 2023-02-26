@@ -175,9 +175,18 @@ Ordered lists have each list item demarcated by numbers 1, 2, 3 etc... If an ord
 #### HTML Equivalent
 <ul>
   <li>item one</li>
-    <ul>
-      <li>nested item one</li>
-    </ul>
+  <ul>
+    <li>nested item one</li>
+  </ul>
+  <li>item two</li>
+  <ul>
+    <li>nested item two</li>
+  </ul>
+  <li>item three</li>
+  <ol>
+    <li>nested item three</li>
+    <li>neted item four</li>
+  </ol>
 </ul>
 
 ***
