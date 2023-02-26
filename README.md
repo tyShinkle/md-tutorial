@@ -4,7 +4,7 @@
 ### Index
 - [Introduction](#wave-introduction-to-markdown)
 - [Text Basics](#pencil2-text-basics-with-markdown)
-- [Lists](#zap-lists-in-markdown)
+- [Lists](#spiral_notepad-lists-in-markdown)
 - [Tables](#zap-tables-in-markdown)
 - [Images](#zap-images-in-markdown)
 - [Math and Science](#zap-math-and-science-in-markdown)
@@ -64,7 +64,7 @@ Here is a reference for marking up text...
 
 ***
 
-## :zap: Lists in Markdown
+## :spiral_notepad: Lists in Markdown
 Here we will go over three types of lists. Please note that there is a space between the text and list item marker for every example.
 
 ### :arrow_down_small: Unordered Lists
