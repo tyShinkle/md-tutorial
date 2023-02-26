@@ -7,8 +7,8 @@
 - [Lists](#bookmark_tabs-lists-in-markdown)
 - [Tables](#briefcase-tables-in-markdown)
 - [Images](#sunflower-images-in-markdown)
-- [Math and Science](#smile-math-and-science-in-markdown)
-- [Emojis](#test_tube-emojis-in-markdown)
+- [Math and Science](#test_tube-math-and-science-in-markdown)
+- [Emojis](#smile-emojis-in-markdown)
 
 ###### :calendar:Created February 2023
 
