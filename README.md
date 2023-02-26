@@ -151,6 +151,19 @@ Ordered lists have each list item demarcated by numbers 1, 2, 3 etc... If an ord
 ### Nested Lists
 
 #### Markdown
+
+```md
+- item one
+    - nested item one
+- item two
+    - nested item two
+- item three
+    1. nested item three
+    2. nested item four
+```
+
+#### Output
+
 - item one
     - nested item one
 - item two
