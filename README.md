@@ -143,6 +143,11 @@ Unordered lists have each list item demarcated by a bullet point.
 #### Markdown
 - item one
     - nested item one
+- item two
+    - nested item two
+- item three
+    1. nested item three
+    2. nested item four
 
 ***
 ## :briefcase: Tables in Markdown
