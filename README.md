@@ -15,7 +15,7 @@ This is a quick tutorial / reference for Markdown, specifially [GitHub Flavored 
 ***
 ## :wave: Introduction to Markdown
 
-- Markdown is a lightweight markup language created in 2004 and used to format digital content.
+- Markdown is a lightweight markup language created in 2004 and used to format digital content. It helps you control the size and position of text and images. It also allows you to create tables, lists and links.
 - Markdown is converted to HTML in order to be displayed in the browser or other applications. 
 - There are different flavors of Markdown such as [GitHub Flavored Markdown](https://github.github.com/gfm/), [Reddit Flavored Markdown](https://www.reddit.com/wiki/markdown/), [Markua](http://markua.com/#the-magical-typewriter-m-) and [more](https://en.wikipedia.org/wiki/Markdown#Variants). This tutorial will focus on [GitHub Flavored Markdown](https://github.github.com/gfm/).
 - To create a Markdown file you can use notepad and save the file with the `.md` extension. Open it with your browser to view it. You could also just create a repo on GitHub and practice your GFM (GitHub Flavored Markdown) in a `README.md`.
