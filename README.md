@@ -91,6 +91,8 @@ Unordered lists have each list item demarcated by a bullet point.
 </ul>
 ```
 
+***
+
 ### Ordered Lists
 
 Ordered lists have each list item demarcated by numbers 1, 2, 3 etc... If an ordered list is nested each list item is then demarcated by a roman numeral i, ii, iii etc... We'll talk about [nested lists](#nested-lists) later.
@@ -115,6 +117,9 @@ Ordered lists have each list item demarcated by numbers 1, 2, 3 etc... If an ord
  <li>item three</li>
 </ol>
 ```
+
+***
+
 ### Task Lists
 
 #### Markdown 
@@ -139,6 +144,8 @@ Ordered lists have each list item demarcated by numbers 1, 2, 3 etc... If an ord
 <input type="checkbox" id="itemThree" name="itemThree" value="itemThree"/>
 <label for="itemThree"> item three </label>
 ```
+
+***
 
 ### Nested Lists
 
