@@ -4,7 +4,7 @@ This is a quick tutorial / reference for Markdown, specifially [GitHub Flavored 
 ### Index
 - [Introduction](#wave-introduction-to-markdown)
 - [Text Basics](#pencil2-text-basics-with-markdown)
-- [Lists](#bookmark_tabs-lists-in-markdown)
+- [Lists](#scroll-lists-in-markdown)
 - [Tables](#briefcase-tables-in-markdown)
 - [Images](#sunflower-images-in-markdown)
 - [Math and Science](#test_tube-math-and-science-in-markdown)
