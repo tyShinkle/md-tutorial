@@ -93,7 +93,7 @@ Unordered lists have each list item demarcated by a bullet point.
 
 ### Ordered Lists
 
-Ordered lists have each list item demarcated by numbers 1, 2, 3 etc... If an ordered list is nested each list item is then represented by a roman numeral i, ii, iii etc... We'll talk about [nested lists](#nested-lists) later.
+Ordered lists have each list item demarcated by numbers 1, 2, 3 etc... If an ordered list is nested each list item is then demarcated by a roman numeral i, ii, iii etc... We'll talk about [nested lists](#nested-lists) later.
 
 #### Markdown 
 ```
