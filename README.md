@@ -123,6 +123,8 @@ Ordered lists have each list item demarcated by numbers 1, 2, 3 etc... If an ord
 
 ### Task Lists
 
+Note for task lists that there are a total of 3 spaces, one between the dash and the left bracket, one between brackets (unless checked) and one between the right bracket and the text.
+
 #### Markdown 
 ```
 - [x] item one
@@ -149,6 +151,8 @@ Ordered lists have each list item demarcated by numbers 1, 2, 3 etc... If an ord
 ***
 
 ### Nested Lists
+
+In order to nest a list or other element such as a blockquote within a list an indentation of 4 spaces is required.
 
 #### Markdown
 
