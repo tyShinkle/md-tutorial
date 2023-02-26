@@ -2,8 +2,8 @@
 :wave: Hello, this is a quick tutorial / reference for Markdown, specifially [GitHub Flavored Markdown](https://github.github.com/gfm/).
 
 ### Index
-- [Introduction](#zap-introduction-to-markdown)
-- [Text Basics](#zap-text-basics-with-markdown)
+- [Introduction](#wave-introduction-to-markdown)
+- [Text Basics](#pencil2-text-basics-with-markdown)
 - [Lists](#zap-lists-in-markdown)
 - [Tables](#zap-tables-in-markdown)
 - [Images](#zap-images-in-markdown)
@@ -23,7 +23,7 @@
 
 ***
 
-## :zap: Text Basics with Markdown
+## :pencil2: Text Basics with Markdown
 
 Markup languages use symbols and specific syntax rules to format content. You can think of it as adding marks or 'marking up' 
 text to modify how it is displayed after conversion.
