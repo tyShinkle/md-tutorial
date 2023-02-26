@@ -67,7 +67,7 @@ Here is a reference for marking up text...
 ## :bookmark_tabs: Lists in Markdown
 Here we will go over three types of lists. Please note that there is a space between the text and list item marker for every example.
 
-### :white_medium_square: Unordered Lists
+### Unordered Lists
 Unordered lists have each list item demarcated by a bullet point.
 
 #### Markdown 
@@ -91,7 +91,7 @@ Unordered lists have each list item demarcated by a bullet point.
 </ul>
 ```
 
-### :white_medium_square: Ordered Lists
+### Ordered Lists
 
 #### Markdown 
 ```
@@ -113,7 +113,7 @@ Unordered lists have each list item demarcated by a bullet point.
  <li>item three</li>
 </ol>
 ```
-### :white_medium_square: Task List
+### Task List
 
 #### Markdown 
 ```
