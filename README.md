@@ -197,6 +197,11 @@ In order to nest a list or other element such as a blockquote within a list an i
 
 ***
 ## :briefcase: Tables in Markdown
+
+#### Markdown
+#### Output
+#### HTML Equivalent
+
 ***
 ## :sunflower: Images in Markdown
 ***
