@@ -177,6 +177,7 @@ In order to nest a list or other element such as a blockquote within a list an i
     2. nested item four
     
 #### HTML Equivalent
+
 ```html
 <ul>
   <li>item one</li>
@@ -194,6 +195,8 @@ In order to nest a list or other element such as a blockquote within a list an i
   </ol>
 </ul>
 ```
+
+``` ```
 
 ***
 ## :briefcase: Tables in Markdown
