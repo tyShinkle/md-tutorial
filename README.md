@@ -204,7 +204,7 @@ In order to nest a list or other element such as a blockquote within a list an i
 |---|---|---|
 |Row: 1 Column: 1|Row: 1 Column: 2|Row: 1 Column: 3|
 |Row: 2 Column: 1|Row: 2 Column: 2|Row: 2 Column: 3|
-|`code example`|> blockquote example|***italic example***|
+|`code example`|[link example](#briefcase-tables-in-markdown)|***italic example***|
 
 #### Output
 #### HTML Equivalent
