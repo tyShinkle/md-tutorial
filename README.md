@@ -195,16 +195,13 @@ In order to nest a list or other element such as a blockquote within a list an i
   </ol>
 </ul>
 ```
-
-``` ```
-
 ***
 ## :briefcase: Tables in Markdown
 
 #### Markdown
 
 |a|b|c|
-|**|**|**|
+|--|--|--|
 |1|2|3|
 
 #### Output
