@@ -200,9 +200,9 @@ In order to nest a list or other element such as a blockquote within a list an i
 
 #### Markdown
 
-|a|b|c|
-|--|--|--|
-|1|2|3|
+|Heading One|Heading Two|Heading Three|
+|---|---|---|
+|Row One Column One| Row One Column 2|Row One Column 3|
 
 #### Output
 #### HTML Equivalent
