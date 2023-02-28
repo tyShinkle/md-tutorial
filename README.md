@@ -226,8 +226,8 @@ In order to nest a list or other element such as a blockquote within a list an i
  </tr>
  <tr>
    <td>Row: 1 Column: 1</td>
-   <td>Row: 2 Column: 1</td>
-   <td>Row: 3 Column: 1</td>
+   <td>Row: 1 Column: 2</td>
+   <td>Row: 1 Column: 3</td>
  </tr>
 </table>
 
