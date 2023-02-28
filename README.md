@@ -200,7 +200,6 @@ In order to nest a list or other element such as a blockquote within a list an i
 
 #### Markdown
 
-```
 |Column Heading One|Column Heading Two|Column Heading Three|
 |---|---|---|
 |Row: 1 Column: 1|Row: 1 Column: 2|Row: 1 Column: 3|
@@ -217,6 +216,10 @@ In order to nest a list or other element such as a blockquote within a list an i
 |`code example`|[link example](#briefcase-tables-in-markdown)|***italic example***|
 
 #### HTML Equivalent
+
+```html
+
+```
 
 ***
 ## :sunflower: Images in Markdown
