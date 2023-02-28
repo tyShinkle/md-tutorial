@@ -219,7 +219,10 @@ In order to nest a list or other element such as a blockquote within a list an i
 #### HTML Equivalent
 
 <table>
- <thead>Column Heading One</thead>
+ <tr>
+   <thead>Column Heading One</thead>
+   <thead>Column Heading Two</thead>
+ </tr>
 </table>
 
 ***
