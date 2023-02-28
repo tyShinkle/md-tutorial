@@ -220,8 +220,12 @@ In order to nest a list or other element such as a blockquote within a list an i
 
 <table>
  <tr>
-   <thead>Column Heading One</thead>
-   <thead>Column Heading Two</thead>
+   <th>Column Heading One</th>
+   <th>Column Heading Two</th>
+   <th>Column Heading Three</th>
+ </tr>
+ <tr>
+   <td>Row: 1 Column: 1</td>
  </tr>
 </table>
 
