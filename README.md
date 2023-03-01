@@ -231,6 +231,16 @@ In order to nest a list or other element such as a blockquote within a list an i
    <td>Row: 1 Column: 2</td>
    <td>Row: 1 Column: 3</td>
  </tr>
+ <tr>
+   <td>Row: 2 Column: 1</td>
+   <td>Row: 2 Column: 2</td>
+   <td>Row: 2 Column: 3</td>
+ </tr>
+ <tr>
+   <td><code>code example</code></td>
+   <td><a href="#breifcase-tables-in-markdown">link example</a></td>
+   <td><em>italic example</em></td>
+ </tr>
 </table>
 
 ***
