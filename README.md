@@ -218,6 +218,7 @@ In order to nest a list or other element such as a blockquote within a list an i
 
 #### HTML Equivalent
 
+```html
 <table>
  <thead>
    <tr>
@@ -242,6 +243,7 @@ In order to nest a list or other element such as a blockquote within a list an i
    <td><em>italic example</em></td>
  </tr>
 </table>
+```
 
 ***
 ## :sunflower: Images in Markdown
