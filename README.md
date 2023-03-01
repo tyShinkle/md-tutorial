@@ -238,7 +238,7 @@ In order to nest a list or other element such as a blockquote within a list an i
  </tr>
  <tr>
    <td><code>code example</code></td>
-   <td><a href="#breifcase-tables-in-markdown">link example</a></td>
+   <td><a href="#briefcase-tables-in-markdown">link example</a></td>
    <td><em>italic example</em></td>
  </tr>
 </table>
