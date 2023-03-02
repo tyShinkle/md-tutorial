@@ -248,7 +248,17 @@ In order to nest a list or other element such as a blockquote within a list an i
 ***
 ## :sunflower: Images in Markdown
 
+#### Markdown
+
+`![sunflower](https://studyfinds.org/wp-content/uploads/2021/08/AdobeStock_276084943-604x385.jpeg)`
+
+#### Output
+
 ![sunflower](https://studyfinds.org/wp-content/uploads/2021/08/AdobeStock_276084943-604x385.jpeg "Sunflower")
+
+#### HTML Equivalent
+
+
 
 ***
 ## :test_tube: Math and Science in Markdown
