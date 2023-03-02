@@ -258,7 +258,9 @@ In order to nest a list or other element such as a blockquote within a list an i
 
 #### HTML Equivalent
 
+```HTML
 <img src="https://studyfinds.org/wp-content/uploads/2021/08/AdobeStock_276084943-604x385.jpeg" alt="sunflower">
+```
 
 ***
 ## :test_tube: Math and Science in Markdown
