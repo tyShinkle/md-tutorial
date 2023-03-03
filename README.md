@@ -269,7 +269,11 @@ In order to nest a list or other element such as a blockquote within a list an i
 
 #### Markdown
 
-`H~2~0`
+`H~2~O`
+
+#### Output
+
+H~2~O
 ***
 ## :smile: Emojis in Markdown
 ***
