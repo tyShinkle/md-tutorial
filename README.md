@@ -283,7 +283,15 @@ H<sub>2</sub>O
 
 #### Markdown
 
-X^2^
+` Not available in Github Flavored Markdon, use inline HTML `
+
+#### Output
+
+x<sup>2</sup>
+
+#### HTML Equivalent
+
+`x<sup>2</sup>`
 
 ***
 ## :smile: Emojis in Markdown
