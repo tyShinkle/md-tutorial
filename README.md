@@ -264,6 +264,12 @@ In order to nest a list or other element such as a blockquote within a list an i
 
 ***
 ## :test_tube: Math and Science in Markdown
+
+### Subscript
+
+#### Markdown
+
+`H~2~0`
 ***
 ## :smile: Emojis in Markdown
 ***
