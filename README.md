@@ -269,7 +269,7 @@ In order to nest a list or other element such as a blockquote within a list an i
 
 #### Markdown
 
-` Not available in GitHub Flavored Markdown use inline HTML `
+` Not available in GitHub Flavored Markdown, use inline HTML `
 
 #### Output
 
@@ -278,6 +278,12 @@ H<sub>2</sub>O
 #### HTML Equivalent
 
 `H<sub>2</sub>O`
+
+### Superscript
+
+#### Markdown
+
+X^2^
 
 ***
 ## :smile: Emojis in Markdown
