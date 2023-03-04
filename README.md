@@ -306,6 +306,6 @@ x<sup>2</sup>
 
 #### HTML Equivalent
 
-&#128516
+<p>&#128516</p>
 
 ***
