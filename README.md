@@ -295,4 +295,15 @@ x<sup>2</sup>
 
 ***
 ## :smile: Emojis in Markdown
+
+#### Markdown
+
+`:smile:`
+
+#### Output
+
+:smile:
+
+#### HTML Equivalent
+
 ***
