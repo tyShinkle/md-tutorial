@@ -81,7 +81,7 @@ Go to the [index](#index "md-tutorial index") of this page.
 
 #### HTML Equivalent
 
-Go to the <a href = #index>index</a> of this page.
+`Go to the <a href = #index>index</a> of this page.`
 
 ***
 
