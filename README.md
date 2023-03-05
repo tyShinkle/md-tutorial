@@ -74,6 +74,11 @@ Here is a reference for marking up text...
 #### Markdown
 
 ` Go to the [index](#index "md-tutorial index") of this page. `
+
+#### Output
+
+Go to the [index](#index "md-tutorial index") of this page.
+
 ***
 
 ## :scroll: Lists in Markdown
