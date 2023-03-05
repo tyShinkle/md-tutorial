@@ -4,7 +4,7 @@ This is a quick tutorial / reference for Markdown, specifially [GitHub Flavored 
 ### Index
 - [Introduction](#wave-introduction-to-markdown)
 - [Text Basics](#pencil2-text-basics-with-markdown)
-- [Links](#links-in-markdown)
+- [Links](#zap-links-in-markdown)
 - [Lists](#scroll-lists-in-markdown)
 - [Tables](#briefcase-tables-in-markdown)
 - [Images](#sunflower-images-in-markdown)
@@ -65,7 +65,7 @@ Here is a reference for marking up text...
 
 ***
 
-## Links in Markdown
+## :zap: Links in Markdown
 
 ***
 
