@@ -63,6 +63,12 @@ Here is a reference for marking up text...
  </tr>
 </table>
 
+##### Line breaks and Horizontal Rules
+
+To form a linke break in Markdown end a line with two spaces and then press 'enter' or 'return'.
+
+Horizontal rules such as those you see sepearating sections in this tutorial are created by typing `***` on the start of a line.
+
 ***
 
 ## :zap: Links in Markdown
