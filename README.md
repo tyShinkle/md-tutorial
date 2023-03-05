@@ -67,6 +67,13 @@ Here is a reference for marking up text...
 
 ## :zap: Links in Markdown
 
+#### Formula
+
+` [Link Text] (link url "Link Title") `
+
+#### Markdown
+
+` Go to the [index](#index "md-tutorial index") of this page. `
 ***
 
 ## :scroll: Lists in Markdown
