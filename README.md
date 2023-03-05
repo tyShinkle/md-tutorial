@@ -63,7 +63,7 @@ Here is a reference for marking up text...
  </tr>
 </table>
 
-##### Line breaks and Horizontal Rules
+#### Line breaks and Horizontal Rules
 
 To form a linke break in Markdown end a line with two spaces and then press 'enter' or 'return'.
 
